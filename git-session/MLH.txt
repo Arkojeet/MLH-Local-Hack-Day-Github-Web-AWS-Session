@@ -1,4 +1,0 @@
-To add something new to the github repository, we need the following steps..
-Step-1: add command
-Step-2: commit command
-Step-3: push command
